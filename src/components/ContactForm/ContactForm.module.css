@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  margin: auto;
+}
+.input {
+  display: flex;
+  margin: 10px auto;
+}
+.inputBtn {
+  margin: auto;
+  height: 100%;
+  width: 100px;
+}

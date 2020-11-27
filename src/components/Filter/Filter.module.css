@@ -1,0 +1,12 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+}
+.input {
+  margin: 10px auto;
+  display: flex;
+}
+.label {
+  margin: auto;
+}
